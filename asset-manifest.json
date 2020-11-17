@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/capstone-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/capstone-project/static/js/main.0f40be07.chunk.js",
+    "main.js.map": "/capstone-project/static/js/main.0f40be07.chunk.js.map",
+    "runtime-main.js": "/capstone-project/static/js/runtime-main.2c37c733.js",
+    "runtime-main.js.map": "/capstone-project/static/js/runtime-main.2c37c733.js.map",
+    "static/js/2.e34b64d4.chunk.js": "/capstone-project/static/js/2.e34b64d4.chunk.js",
+    "static/js/2.e34b64d4.chunk.js.map": "/capstone-project/static/js/2.e34b64d4.chunk.js.map",
+    "static/js/3.7bd0f8b3.chunk.js": "/capstone-project/static/js/3.7bd0f8b3.chunk.js",
+    "static/js/3.7bd0f8b3.chunk.js.map": "/capstone-project/static/js/3.7bd0f8b3.chunk.js.map",
+    "index.html": "/capstone-project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/capstone-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e34b64d4.chunk.js.LICENSE.txt": "/capstone-project/static/js/2.e34b64d4.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/capstone-project/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c37c733.js",
+    "static/js/2.e34b64d4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0f40be07.chunk.js"
+  ]
+}
